@@ -1,2 +1,2 @@
 # ClockFormat
-Project 1 for CS-210
+Project the displays a 12 and 24 hr clock at the same time.
